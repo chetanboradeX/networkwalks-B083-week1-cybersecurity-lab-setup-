@@ -50,3 +50,14 @@ The main objectives of this project are to:
 ---
 
 
+# 🏗️ Lab Architecture
+
+![](1-screenshot-title-image.png)
+
+
+Additional target machines can be added to the same virtual network in future projects.
+
+---
+
+
+
