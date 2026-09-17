@@ -11,7 +11,7 @@
 
 ## ⚙️ lab environment 
 
-      **Virtualization Platform:** Oracle VirtualBox
+- **Virtualization Platform:** Oracle VirtualBox
 - **Attacking / Testing Machine:** Kali Linux
 - **Network Type:** NAT Network
 - **Network:** 10.0.0.0/24
