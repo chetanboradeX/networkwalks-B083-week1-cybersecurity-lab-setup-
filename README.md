@@ -25,7 +25,7 @@
 
 ## 🏗️ lab architecture 
 
-###1. 
+-1. 
 
 
 
